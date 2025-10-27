@@ -29,8 +29,8 @@ Currently, I’m pursuing my **Bachelor of Information Technology (Honours)** at
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](#)  
-- 🌐 [Portfolio Website](#) *(coming soon)*  
-- 📧 Email: piyumimasachchi@example.com *(replace with your real email if you like)*  
+- 🌐 [Portfolio Website](#)  
+- 📧 Email: piyumimasachchi@example.com   
 
 ---
 
